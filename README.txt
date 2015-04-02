@@ -1,5 +1,4 @@
-Names: James Capuder and Jack Benson
-We affirm that we have adhered to the honor code in this assignment
+Link to lab instructions and description of maze format: http://cs.oberlin.edu/~kuperman/csci151/lab03/index.html
 
 
 
